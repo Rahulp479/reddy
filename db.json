@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "",
+      "email": "pp@gmail.com",
+      "mobile": 788788715,
+      "salary": "98800"
+    },
+    {
+      "id": 3,
+      "firstName": "",
+      "email": "ccc",
+      "mobile": 788788715,
+      "salary": "reddy"
+    },
+    {
+      "id": 4,
+      "firstName": "",
+      "email": "reddy@123",
+      "mobile": 788788715,
+      "salary": "reddy"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
